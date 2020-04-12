@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Splashscreen_25</string>
+    <string name="todo">TODO</string>
+    <string name="tunggu_sebentar">Tunggu sebentar</string>
+    <string name="textview">SMK TELKOM PURWOKERTO</string>
+    <string name="nama_nur_fadhil_aminullah">Nama : Nur fadhil aminullah</string>
+    <string name="kelas_xi_rpl_3">Kelas : XI RPL 3</string>
+    <string name="absen_25">Absen : 25</string>
+    <string name="smk_telkom_purwokerto">SMK TELKOM PURWOKERTO</string>
+    <string name="_2019">2019</string>
+</resources>
